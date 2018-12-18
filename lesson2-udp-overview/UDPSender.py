@@ -12,7 +12,7 @@ import socket
 # IP and port of sending computer
 # In this case we're sending a UDP packet to PacketSender for demonstration purposes
 # Be sure to change this to the IP address of the computer running this Python script
-simulated_tello_address = ('10.0.1.6', 8889)
+simulated_tello_address = ('내 컴퓨터 ip 주소를 ', 8889)
 
 # Create a UDP connection that we'll send the command to
 sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
