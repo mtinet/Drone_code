@@ -4,7 +4,8 @@
 
 Python을 사용하여 자율 비행을위한 Tello 무인 비행기를 프로그래밍하는 과정을 안내합니다. 
 
-<ul>command</ul>
+<ul>
+  <ol>command</ol>
 takeoff
 land
 up xx (fly up a distance from 20 - 500 cm)
@@ -29,3 +30,4 @@ speed x (set speed from 1 - 100 cm/s)
 speed? (get current speed)
 battery? (get current battery percentage)
 time? (get current flight time)
+</ul>
